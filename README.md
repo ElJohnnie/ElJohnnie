@@ -12,4 +12,4 @@
 
 :books: I’m currently learning React.
 
-https://github-readme-stats.vercel.app/api?username={ElJohnnie}
+https://git.io/JJmN9
