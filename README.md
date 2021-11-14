@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning React in Compasso UOL with UNISC Scholarship Program.
+:books: I'm a front-end developer at Compass UOL.
 
 ## About me
 
