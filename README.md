@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I'm currently a Front-End developer at Compass.UOL
+:books: I'm currently a Front-End developer at <a href="https://compass.uol/" target="_blank">Compass.UOL</a>
 
 ## About me
 
