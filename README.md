@@ -8,9 +8,11 @@
 
 :computer: I'm Web Developer!
 
+🕹️ Video-game lover!
+
 :house_with_garden: I’m from Brazil.
 
-:books: I'm currently a Front-End developer at <a href="https://compass.uol/" target="_blank">Compass.UOL</a>
+:books: I'm currently a Front-End developer trainee at <a href="https://compass.uol/" target="_blank">Compass.UOL</a>
 
 ## About me
 
