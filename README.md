@@ -12,7 +12,9 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I'm currently a Front-End developer at <a href="https://compass.uol/" target="_blank">Compass.UOL</a>
+🏢 I'm currently a Front-End developer at <a href="https://compass.uol/" target="_blank">Compass.UOL</a>
+
+🏫 Doing post graduation in machine learning
 
 ## About me
 
