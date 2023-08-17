@@ -14,7 +14,9 @@
 
 🏢 I'm currently a Front-End developer at <a href="https://compass.uol/" target="_blank">Compass.UOL</a>
 
-🏫 Doing post graduation in machine learning
+🧠 Machine learning enthusiast
+
+🏫 Doing post graduation at machine learning
 
 ## About me
 
