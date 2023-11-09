@@ -34,6 +34,7 @@
 
 ## Technologies
 
+<!--
 ### Front-end
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -80,7 +81,7 @@
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
   <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD">
 </p>
-
+-->
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ElJohnnie&layout=compact)](https://github.com/ElJohnnie/github-readme-stats)
 
 
