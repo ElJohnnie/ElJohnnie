@@ -2,7 +2,7 @@
 
  
 
-## I'm (Jonathan Follmer)!
+## I'm (Jonatha Follmer)!
 
  
 
