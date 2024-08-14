@@ -12,11 +12,9 @@
 
 :house_with_garden: I’m from Brazil.
 
-🏢 I'm currently a Software engineer mid-level at <a href="https://compass.uol/" target="_blank">Compass.UOL</a>
+🏢 I'm currently a Software Developer at <a href="https://compass.uol/" target="_blank">Compass.UOL</a>
 
 🧠 Machine learning enthusiast
-
-🏫 Doing post graduation at machine learning
 
 ## About me
 
