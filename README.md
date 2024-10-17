@@ -1,43 +1,22 @@
-# Welcome!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ElJohnnie&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub status illustration">
 
- 
+### Jonatha Follmer!
 
-## I'm (Jonatha Follmer)!
+<img src="https://img.shields.io/static/v1?label=Overview&message=ElJohnnie&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
- 
+<p>Working at Compass.uol, acting as a consultant for Vivo (Telefônica)<br/> I am a Full-Stack developer</p>
 
-:computer: I'm Web Developer!
+### Work Experience
 
-🕹️ Video-game lover!
+In the overview below, you'll find my most recent work experience:
 
-:house_with_garden: I’m from Brazil.
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://t.ctcdn.com.br/s8VP1LoR9qwPeiQFcdgrAJGFpqw=/1080x1080/smart/i490017.jpeg"/>](https://compass.uol/en/home/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3o0HG4TQsN-PWtoC_dWunUsR9HCj42OCLhg&s"/>](https://vivo.com.br/para-voce)
 
-🏢 I'm currently a Software Developer at <a href="https://compass.uol/" target="_blank">Compass.UOL</a>
+**Full-Stack Software Developer** \
+[**Compass.uol**](https://compass.uol/en/home/) • Full-time \
+Languages & Technologies: `Node.js`, `Java`, `ES15`, `React`, `Vue.js`, `Docker`, `Kubernetes`, `Azure`\
+Highlighted projects: [Meu Vivo App](https://vivo.com.br/para-voce/app-vivo), [Meu Vivo Empresas](<https://vivo.com.br/para-empresas>)
+<br/>
 
-🧠 Machine learning enthusiast
-
-## About me
-
-<p>
- <a href="https://www.linkedin.com/in/jonatha-follmer-4a6704128/">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a>
-</p>
-
-<!-- ## Buy Me a Coffe
-
-<a href="https://www.buymeacoffee.com/jonathanfollmer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
--->
-
-## Technologies
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElJohnnie&layout=pie)](https://github.com/ElJohnnie/github-readme-stats)
-
-<!-- ## WakaTime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElJohnnie)](https://github.com/ElJohnnie/github-readme-stats)
-
--->
-
-
-
-
+Please find me on [LinkedIn](https://www.linkedin.com/in/jonatha-follmer/) for a more detailed description of my work experience, education, and certifications.
