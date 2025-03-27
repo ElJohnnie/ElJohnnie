@@ -8,7 +8,7 @@
 
 ### Work Experience
 
-In the overview below, you'll find my most recent work experience:
+In the overview below, i worked for:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://t.ctcdn.com.br/s8VP1LoR9qwPeiQFcdgrAJGFpqw=/1080x1080/smart/i490017.jpeg"/>](https://compass.uol/en/home/)
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3o0HG4TQsN-PWtoC_dWunUsR9HCj42OCLhg&s"/>](https://vivo.com.br/para-voce)
