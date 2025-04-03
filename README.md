@@ -31,5 +31,5 @@ Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `Next`, `Doc
 **Full-Stack Software Developer**  
 [**Compass.uol**](https://compass.uol/en/home/) • Full-time  
 Languages & Technologies: `TypeScript`, `Node.js`, `Java`, `ES15`, `React`, `Vue.js`, `Docker`, `Kubernetes`, `Azure Cloud Services` 
-📌 Projects: [Meu Vivo App](https://vivo.com.br/para-voce/app-vivo), [Meu Vivo Empresas](https://vivo.com.br/para-empresas)
+Projects: [Meu Vivo App](https://vivo.com.br/para-voce/app-vivo), [Meu Vivo Empresas](https://vivo.com.br/para-empresas)
 
