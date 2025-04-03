@@ -2,9 +2,11 @@
 
 ### Jonatha Follmer!
 
+<p>I am a Full-Stack Developer specializing in the JavaScript ecosystem, with extensive expertise in software architecture and engineering.</p>
 <img src="https://img.shields.io/static/v1?label=Overview&message=ElJohnnie&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ## 💼 Work Experience
+
 
 ### Currently at:
 [<img src="https://grupovillela.com.br/wp-content/uploads/2024/08/logotipo_grupo-villela2-1.png" alt="Grupo Villela" width="200px"/>](https://grupovillela.com.br/)
