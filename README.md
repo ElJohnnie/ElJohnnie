@@ -13,7 +13,7 @@
 
 **Full-Stack Software Developer**  
 [**Grupo Villela**](https://grupovillela.com.br/) • Full-time  
-Languages & Technologies: `Node.js`, `ES15`, `React`, `TypeScript`, `Docker`, `Azure`  
+Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `Next`, `Docker`, `Azure Cloud Services`  
 
 ---
 
@@ -30,6 +30,6 @@ Languages & Technologies: `Node.js`, `ES15`, `React`, `TypeScript`, `Docker`, `A
 
 **Full-Stack Software Developer**  
 [**Compass.uol**](https://compass.uol/en/home/) • Full-time  
-Languages & Technologies: `Node.js`, `Java`, `ES15`, `React`, `Vue.js`, `Docker`, `Kubernetes`, `Azure`, `TypeScript`  
+Languages & Technologies: `TypeScript`, `Node.js`, `Java`, `ES15`, `React`, `Vue.js`, `Docker`, `Kubernetes`, `Azure Cloud Services` 
 📌 Projects: [Meu Vivo App](https://vivo.com.br/para-voce/app-vivo), [Meu Vivo Empresas](https://vivo.com.br/para-empresas)
 
