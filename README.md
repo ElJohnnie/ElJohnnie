@@ -4,19 +4,30 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=ElJohnnie&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Working at Compass.uol, acting as a consultant for Vivo (Telefônica)<br/> I am a Full-Stack developer</p>
+## 💼 Work Experience
 
-### Work Experience
+### Currently at:
+[<img src="https://grupovillela.com.br/wp-content/uploads/2024/08/logotipo_grupo-villela2-1.png" alt="Grupo Villela" width="200px"/>](https://grupovillela.com.br/)
 
-In the overview below, i worked for:
+**Full-Stack Software Developer**  
+[**Grupo Villela**](https://grupovillela.com.br/) • Full-time  
+Languages & Technologies: `Node.js`, `ES15`, `React`, `TypeScript`, `Docker`, `Azure`  
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://t.ctcdn.com.br/s8VP1LoR9qwPeiQFcdgrAJGFpqw=/1080x1080/smart/i490017.jpeg"/>](https://compass.uol/en/home/)
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3o0HG4TQsN-PWtoC_dWunUsR9HCj42OCLhg&s"/>](https://vivo.com.br/para-voce)
+---
 
-**Full-Stack Software Developer** \
-[**Compass.uol**](https://compass.uol/en/home/) • Full-time \
-Languages & Technologies: `Node.js`, `Java`, `ES15`, `React`, `Vue.js`, `Docker`, `Kubernetes`, `Azure`\
-Highlighted projects: [Meu Vivo App](https://vivo.com.br/para-voce/app-vivo), [Meu Vivo Empresas](<https://vivo.com.br/para-empresas>)
-<br/>
+### Previous Experience:
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/jonatha-follmer/) for a more detailed description of my work experience, education, and certifications.
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <a href="https://compass.uol/en/home/">
+    <img src="https://t.ctcdn.com.br/s8VP1LoR9qwPeiQFcdgrAJGFpqw=/1080x1080/smart/i490017.jpeg" alt="Compass.uol" width="100px"/>
+  </a>
+  <a href="https://vivo.com.br/para-voce">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3o0HG4TQsN-PWtoC_dWunUsR9HCj42OCLhg&s" alt="Vivo" width="100px"/>
+  </a>
+</div>
+
+**Full-Stack Software Developer**  
+[**Compass.uol**](https://compass.uol/en/home/) • Full-time  
+Languages & Technologies: `Node.js`, `Java`, `ES15`, `React`, `Vue.js`, `Docker`, `Kubernetes`, `Azure`, `TypeScript`  
+📌 Projects: [Meu Vivo App](https://vivo.com.br/para-voce/app-vivo), [Meu Vivo Empresas](https://vivo.com.br/para-empresas)
+
