@@ -13,7 +13,7 @@
 
 **Full-Stack Software Developer**  
 [**Grupo Villela**](https://grupovillela.com.br/) • Full-time  
-Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `Next`, `Docker`, `Azure Cloud Services`  
+Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `React Native` `Next`, `Docker`, `Azure Cloud Services`  
 
 ---
 
