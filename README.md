@@ -8,7 +8,7 @@
 ## 💼 Work Experience
 
 
-### Currently at:
+### Worked at:
 [<img src="https://grupovillela.com.br/wp-content/uploads/2024/08/logotipo_grupo-villela2-1.png" alt="Grupo Villela" width="200px"/>](https://grupovillela.com.br/)
 
 **Full-Stack Software Developer**  
