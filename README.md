@@ -7,17 +7,24 @@
 
 ## 💼 Work Experience
 
+### Working at:
+[<img src="https://www.idip.com.br/images/svg/idip-logos/white-blue-full-logo.svg" alt="Idip" width="200px"/>](https://www.idip.com.br/)
 
-### Worked at:
+**Full-Stack Software Developer**  
+[**Idip**](https://www.idip.com.br/) • Full-time  
+Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `NestJS`, `React Native` `Next`, `Docker`, `Amazon Web Services`  
+
+---
+
+
+### Previous Experience:
 [<img src="https://grupovillela.com.br/wp-content/uploads/2024/08/logotipo_grupo-villela2-1.png" alt="Grupo Villela" width="200px"/>](https://grupovillela.com.br/)
 
 **Full-Stack Software Developer**  
 [**Grupo Villela**](https://grupovillela.com.br/) • Full-time  
-Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `React Native` `Next`, `Docker`, `Azure Cloud Services`  
+Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `NestJS`, `React Native` `Next`, `Docker`, `Azure Cloud Services`  
 
 ---
-
-### Previous Experience:
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <a href="https://compass.uol/en/home/">
