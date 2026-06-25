@@ -7,11 +7,11 @@
 
 ## 💼 Work Experience
 
-### Working at:
+### Previous Experience:
 [<img src="https://www.idip.com.br/images/svg/idip-logos/white-blue-full-logo.svg" alt="Idip" width="200px"/>](https://www.idip.com.br/)
 
 **Full-Stack Software Developer**  
-[**Idip**](https://www.idip.com.br/) • Full-time  
+[**Idip**](https://www.idip.com.br/) • Temporary  
 Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `NestJS`, `React Native` `Next`, `Docker`, `Amazon Web Services`  
 
 ---
