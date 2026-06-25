@@ -8,7 +8,7 @@
 ## 💼 Work Experience
 
 ### Previous Experience:
-[<img src="https://www.idip.com.br/images/svg/idip-logos/white-blue-full-logo.svg" alt="Idip" width="200px"/>](https://www.idip.com.br/)
+[<img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/81502018-7d9e-4bcb-9a59-65c1d6b15d96" />](https://www.idip.com.br/)
 
 **Full-Stack Software Developer**  
 [**Idip**](https://www.idip.com.br/) • Temporary  
