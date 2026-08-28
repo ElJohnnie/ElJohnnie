@@ -8,11 +8,21 @@
 ## 💼 Work Experience
 
 ### Previous Experience:
+<img width="200" height="200" alt="386631900_346886144521852_7776202487525679724_n" src="https://github.com/user-attachments/assets/e83db2ac-d616-43a9-bcfc-c346e93026db" />
+
+
+**Full-Stack Software Developer**  
+[**BSR**](https://bsrindustrial.com.br/) • Full-time  
+Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `NestJS`, `React Native`, `Docker`, `Google Cloud Platform`, `C++`, `Terraform`  
+
+---
+
+### Previous Experience:
 [<img width="200px" alt="image" src="https://github.com/user-attachments/assets/81502018-7d9e-4bcb-9a59-65c1d6b15d96" />](https://www.idip.com.br/)
 
 **Full-Stack Software Developer**  
 [**Idip**](https://www.idip.com.br/) • Temporary  
-Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `NestJS`, `React Native` `Next`, `Docker`, `Amazon Web Services`  
+Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `NestJS`, `React Native`, `Next`, `Docker`, `Amazon Web Services`  
 
 ---
 
