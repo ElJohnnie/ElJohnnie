@@ -7,7 +7,7 @@
 
 ## 💼 Work Experience
 
-### Previous Experience:
+### Experience:
 <img width="200" height="200" alt="386631900_346886144521852_7776202487525679724_n" src="https://github.com/user-attachments/assets/e83db2ac-d616-43a9-bcfc-c346e93026db" />
 
 
