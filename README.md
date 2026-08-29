@@ -13,7 +13,7 @@
 
 **Full-Stack Software Developer**  
 [**BSR**](https://bsrindustrial.com.br/) • Full-time  
-Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `NestJS`, `React Native`, `Docker`, `Google Cloud Platform`, `C++`, `Terraform`  
+Languages & Technologies: `TypeScript`, `Node.js`, `ES15`, `React`, `NestJS`, `React Native`, `Docker`, `Google Cloud Platform`, `Python` `C++`, `Terraform`  
 
 ---
 
